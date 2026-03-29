@@ -1,6 +1,6 @@
 # OPEN-SOURCE-EX-3
-## NAME : SANJAY K
-## REG NO : 212222040146
+## NAME : Janani M
+## REG NO : 212222050021
 # STEPS INVOLVED:
 ### STEP 1 : sudo groupadd admin
 ### STEP 2 : sudo useradd -m -G admin harry
